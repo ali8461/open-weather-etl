@@ -28,7 +28,6 @@ OpenWeather API → Python (ETL Script) → S3 Bucket → AWS Glue → Amazon Re
 │ └── transform.py # Python script to transform data
 ├── resources/
 │ ├── architecture.png # Architecture diagram
-│ ├── README.md # Resource-specific documentation
 │ └── requirements.txt # Python dependencies for Airflow and project
 ├── infrastructure.yaml # CloudFormation template for AWS resources
 ├── README.md # Main project documentation
