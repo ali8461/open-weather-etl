@@ -50,10 +50,10 @@ OpenWeather API → Python (ETL Script) → S3 Bucket → AWS Glue → Amazon Re
     ```
 
 2. **Deploy Infrastructure using CloudFormation
-    ```
+   
 
 3. **Upload DAG and Scripts to S3 Bucket
-    ```
+   
 
 4. **Configure Airflow Environment
 details.
