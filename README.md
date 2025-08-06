@@ -3,9 +3,9 @@
 
 This project implements an end-to-end ETL pipeline that extracts 5-day weather forecast data from the **OpenWeather API**, processes it using **AWS Glue**, and loads it into an **Amazon Redshift** data warehouse. The pipeline orchestration is handled by **Amazon Managed Apache Airflow**, and the infrastructure is provisioned via **AWS CloudFormation**.
 
-### Architecture Diagram
+## Architecture Diagram
 
-![ETL Architecture](resources/Architecture.png)
+![ETL Architecture](resources/architecture.png)
 
 ## 🛠️ Architecture Overview
 
